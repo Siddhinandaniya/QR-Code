@@ -24,23 +24,21 @@ This is my first Frontend Mentor project. A simple card component which contain 
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [https://shamilussainc.github.io/qr-code-component/](https://shamilussainc.github.io/qr-code-component/)
+- Live Site URL: [https://siddhinandaniya.github.io/QR-Code/](https://siddhinandaniya.github.io/QR-Code/)
 
 ## My process
 
 - First developed html body structure
-- Started building with mobile first approach
-- Used Sass to create css file
+- Started building with desktop first approach
+- Used css to create design
 - Used flexbox for alignment
 
 
 ### Built with
 
 - Semantic HTML5 markup
-- Sass Preprocessor
-- CSS
+- CSS3
 - Flexbox
-- Mobile-first workflow
 
 
 ### Continued development
@@ -50,6 +48,5 @@ During this project i found flexbox really useful. i was looking for a way to po
 
 ## Author
 
-- Linkedin - [Shamil ussain c](https://www.linkedin.com/in/shamil-ussain-c-893282187/)
-- Frontend Mentor - [@shamilussainc](https://www.frontendmentor.io/profile/shamilussainc)
-- Twitter - [@c_ussain](https://twitter.com/c_ussain)
+- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhi-nandaniya/)
+- Frontend Mentor - [@Siddhinandaniya](https://www.frontendmentor.io/profile/Siddhinandaniya)
