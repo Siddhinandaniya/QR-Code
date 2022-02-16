@@ -18,7 +18,7 @@ This is my first Frontend Mentor project. A simple card component which contain 
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 
 ### Links
