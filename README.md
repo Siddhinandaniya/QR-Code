@@ -45,8 +45,8 @@ This is my first Frontend Mentor project. A simple card component which contain 
 
 During this project i found flexbox really useful. i was looking for a way to position the card at the center of webpage. And finally flexbox seemed to be the best approach.
 
-
 ## Author
 
-- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhi-nandaniya/)
-- Frontend Mentor - [@Siddhinandaniya](https://www.frontendmentor.io/profile/Siddhinandaniya)
+- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhie/)
+- Frontend Mentor - [@siddhinandaniya](https://www.frontendmentor.io/profile/Siddhie)
+
